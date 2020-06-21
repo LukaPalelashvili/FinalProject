@@ -1,0 +1,23 @@
+#cartNameInCartDetail{
+    font-weight: 400;
+    font-size: 26px;
+    color: #383737;
+    position: absolute;
+    top: 103px;
+    left: 101px;
+}
+
+
+.emptyCart{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    display: block;
+    width: 155px;
+    height: 99px;
+}
+
+.emptyLogo{
+    width: 39.9px;
+    height: 49.93px;
+}

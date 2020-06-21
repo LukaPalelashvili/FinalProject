@@ -1,0 +1,40 @@
+.bfas fa-shopping-bag {
+    width: 200px;
+    height: 12px;
+    color: #000000;
+    margin-top: 25px;
+}
+
+.bag {
+    position: absolute;
+    top: 20px;
+    right: 14px;
+}
+
+.cart {
+    position: relative;
+    font-size: 30px;
+    color: #000000;
+    margin-right: 30px;
+    margin-top: 20px;
+    cursor: pointer
+}
+
+.cartItemsNumber {
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    background-color: #F14152;
+    color: white;
+    position: absolute;
+    top: -10px; 
+    text-align: center;
+     margin-right: 20px;
+    transition: transform .3s;
+}
+
+.cartItemsNumber:hover {
+    transform: scale(1.2);
+}

@@ -1,0 +1,28 @@
+.logo {
+    display: flex;
+    font-weight: bold;
+    font-size: 25px;
+    border: 2px solid black;
+    height: 50px;
+    margin-top: 10px;
+    z-index: 999;
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+}
+
+.L {
+    color: #383737;
+    background-color: white;
+    padding: 2px 5px;
+}
+
+.P {
+    color: white;
+    padding: 2px 5px;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+}
