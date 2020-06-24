@@ -1,5 +1,8 @@
 API_ის გაშვება npm run dev;
+
 API ეშვება 3100 პორტზე;
+
+
 admin panel_დან პროდუქტების ემატება http://localhost:3000/admin;
 
 
